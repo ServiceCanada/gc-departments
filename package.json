@@ -1,0 +1,11 @@
+{
+  "name": "departments",
+  "version": "1.0.0",
+  "description": "Convert the departments list from CSV to JSON",
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-convert": "^0.1.12"
+  }
+}

@@ -1,0 +1,92 @@
+ID,filter,nameEN,nameFR,linkEN,linkFR
+1,false,Administrative Tribunals Support Service of Canada (ATSSC) ,Service canadien d’appui aux tribunaux administratifs,https://www.canada.ca/en/administrative-tribunals-support-service.html,https://www.canada.ca/fr/service-canadien-appui-tribunaux-administratifs.html
+2,false,Atlantic Canada Opportunities Agency,Agence de promotion économique du Canada atlantique,http://www.acoa-apeca.gc.ca/Eng/Pages/Home.aspx,http://www.acoa-apeca.gc.ca/fra/Pages/Accueil.aspx
+3,false,Canada Border Services Agency,Agence des services frontaliers du Canada,http://www.cbsa.gc.ca/menu-eng.html,http://www.cbsa.gc.ca/menu-fra.html
+4,false,Canada Emission Reduction Incentives Agency,Agence canadienne pour l’incitation à la réduction des émissions,N/A,N/A
+5,false,Canada Employment Insurance Commission,Commission de l’assurance-emploi du Canada,http://www.esdc.gc.ca/en/ei/commission.page,http://www.edsc.gc.ca/fr/assurance_emploi/commission.page?&_ga=1.48777519.84267230.1453995717
+6,false,Canada Industrial Relations Board,Conseil canadien des relations industrielles,http://www.cirb-ccri.gc.ca/eic/site/047.nsf/eng/home,http://www.cirb-ccri.gc.ca/eic/site/047.nsf/fra/accueil
+7,false,Canada Revenue Agency,Agence du revenu du Canada,http://www.cra-arc.gc.ca/menu-eng.html,http://www.cra-arc.gc.ca/menu-fra.html
+8,false,Canada School of Public Service,École de la fonction publique du Canada,http://www.csps.gc.ca/index-eng.aspx,http://www.csps.gc.ca/index-fra.aspx
+9,false,Canadian Centre for Occupational Health and Safety,Centre canadien d’hygiène et de sécurité au travail,http://www.ccohs.gc.ca/,http://www.cchst.ca/index.html
+10,false,Canadian Environmental Assessment Agency,Agence canadienne d’évaluation environnementale,http://www.ceaa.gc.ca/default.asp?lang=en&n=d75fb358-1,http://www.ceaa.gc.ca/default.asp?lang=Fr&n=d75fb358-1
+11,false,Canadian Food Inspection Agency,Agence canadienne d’inspection des aliments,http://www.inspection.gc.ca/eng/1297964599443/1297965645317,http://www.inspection.gc.ca/fra/1297964599443/1297965645317
+12,false,Canadian Grain Commission,Commission canadienne des grains,https://www.grainscanada.gc.ca/index-eng.htm,https://www.grainscanada.gc.ca/index-fra.htm
+13,false,Canadian Human Rights Commission,Commission canadienne des droits de la personne,http://www.chrc-ccdp.gc.ca/eng,http://www.chrc-ccdp.gc.ca/fra
+14,false,Canadian Human Rights Tribunal,Tribunal canadien des droits de la personne,http://www.chrt-tcdp.gc.ca/NS/index-eng.asp,http://www.chrt-tcdp.gc.ca/NS/index-fra.asp
+15,false,Canadian Institutes of Health Research,Instituts de recherche en santé du Canada,http://www.cihr-irsc.gc.ca/e/193.html,http://www.cihr-irsc.gc.ca/f/193.html
+16,false,Canadian Intergovernmental Conference Secretariat,Secrétariat des conférences intergouvernementales canadiennes,http://www.scics.gc.ca/english/view.asp?x=1,http://www.scics.gc.ca/francais/view.asp?x=1
+17,false,Canadian International Trade Tribunal,Tribunal canadien du commerce extérieur,http://www.citt.gc.ca/,http://www.citt.gc.ca/fr
+18,false,Canadian Northern Economic Development Agency,Agence canadienne de développement économique du Nord,http://www.cannor.gc.ca/eng/1351104567432/1351104589057,http://www.cannor.gc.ca/fra/1351104567432/1351104589057
+19,false,Canadian Nuclear Safety Commission,Commission canadienne de sûreté nucléaire,http://nuclearsafety.gc.ca/eng/,http://nuclearsafety.gc.ca/fra/index.cfm
+20,false,Polar Knowledge Canada,Savoir polaire Canada,https://www.canada.ca/en/polar-knowledge.html,https://www.canada.ca/fr/savoir-polaire.html
+21,false,Canadian Radio-television and Telecommunications Commission,Conseil de la radiodiffusion et des télécommunications canadiennes,http://www.crtc.gc.ca/eng/home-accueil.htm,http://www.crtc.gc.ca/fra/accueil-home.htm
+22,false,Canadian Security Intelligence Service,Service canadien du renseignement de sécurité,https://www.csis-scrs.gc.ca/index-en.php,https://www.csis-scrs.gc.ca/index-fr.php
+23,false,Canadian Space Agency,Agence spatiale canadienne,http://www.asc-csa.gc.ca/eng/,http://www.asc-csa.gc.ca/fra/default.asp
+24,false,Canadian Transportation Accident Investigation and Safety Board,Bureau canadien d’enquête sur les accidents de transport et de la sécurité des transports,http://www.tsb.gc.ca/eng/,http://www.tsb.gc.ca/fra/index.asp
+25,false,Canadian Transportation Agency,Office des transports du Canada,https://www.otc-cta.gc.ca/eng,https://www.otc-cta.gc.ca/fra
+26,false,Communications Security Establishment,Centre de la sécurité des télécommunications,https://www.cse-cst.gc.ca/en,https://www.cse-cst.gc.ca/fr
+27,false,Copyright Board,Commission du droit d’auteur,http://www.cb-cda.gc.ca/home-accueil-e.html,http://www.cb-cda.gc.ca/home-accueil-f.html
+28,false,Correctional Service of Canada,Service correctionnel du Canada,http://www.csc-scc.gc.ca/index-eng.shtml,http://www.csc-scc.gc.ca/index-fra.shtml
+29,false,Department of Agriculture and Agri-Food,Ministère de l’Agriculture et de l’Agroalimentaire,http://www.agr.gc.ca/eng/home/?id=1395690825741,http://www.agr.gc.ca/fra/accueil/?id=1395690825741
+30,false,Department of Canadian Heritage,Ministère du Patrimoine canadien,http://www.pch.gc.ca/eng/1266037002102/1265993639778,http://www.pch.gc.ca/fra/1266037002102/1265993639778
+31,false,Department of Citizenship and Immigration,Ministère de la Citoyenneté et de l’Immigration,http://www.cic.gc.ca/english/,http://www.cic.gc.ca/francais/index.asp
+32,false,Department of Employment and Social Development,Ministère de l’Emploi et du Développement social,http://www.esdc.gc.ca/eng/home.shtml,http://www.edsc.gc.ca/fra/accueil.shtml
+33,false,Department of Finance,Ministère des Finances,http://www.fin.gc.ca/fin-eng.asp,http://www.fin.gc.ca/fin-fra.asp
+34,false,Department of Fisheries and Oceans,Ministère des Pêches et des Océans,http://www.dfo-mpo.gc.ca/index-eng.htm,http://www.dfo-mpo.gc.ca/index-fra.htm
+35,false,"Department of Foreign Affairs, Trade and Development","Ministère des Affaires étrangères, du Commerce et du Développement",http://www.international.gc.ca/international/index.aspx?lang=eng,http://www.international.gc.ca/international/index.aspx?lang=fra
+36,false,Department of Health,Ministère de la Santé,http://www.hc-sc.gc.ca/index-eng.php,http://www.hc-sc.gc.ca/index-fra.php
+37,false,Department of Indian Affairs and Northern Development,Ministère des Affaires indiennes et du Nord canadien,https://www.aadnc-aandc.gc.ca/eng/1100100010002/1100100010021,https://www.aadnc-aandc.gc.ca/fra/1100100010002/1100100010021
+38,false,Department of Industry,Ministère de l’Industrie,https://www.ic.gc.ca/eic/site/icgc.nsf/eng/home,https://www.ic.gc.ca/eic/site/icgc.nsf/fra/accueil
+39,false,Department of Justice,Ministère de la Justice,http://www.justice.gc.ca/eng/,http://www.justice.gc.ca/fra/
+40,false,Department of National Defense,Ministère de la Défense nationale,http://www.forces.gc.ca/en/,http://www.forces.gc.ca/fr/index.page
+41,false,Department of Natural Resources,Ministère des Ressources naturelles,http://www.nrcan.gc.ca/home,http://www.rncan.gc.ca/accueil
+42,false,Department of Public Safety and Emergency Preparedness,Ministère de la Sécurité publique et de la Protection civile,https://www.publicsafety.gc.ca/index-eng.aspx,http://www.securitepublique.gc.ca/index-fr.aspx
+43,false,Department of Public Works and Government Services,Ministère des Travaux publics et des Services gouvernementaux,http://www.tpsgc-pwgsc.gc.ca/comm/index-eng.html,http://www.tpsgc-pwgsc.gc.ca/comm/index-fra.html
+44,false,Department of the Environment,Ministère de l’Environnement,http://www.ec.gc.ca/default.asp?lang=En&n=FD9B0E51-1,http://www.ec.gc.ca/default.asp?lang=Fr&n=FD9B0E51-1
+45,false,Department of Transport,Ministère des Transports,http://www.tc.gc.ca/eng/menu.htm,http://www.tc.gc.ca/fra/menu.htm
+46,false,Department of Veterans Affairs,Ministère des Anciens Combattants,http://www.veterans.gc.ca/eng,http://www.veterans.gc.ca/fra
+47,false,Department of Western Economic Diversification,Ministère de la Diversification de l’économie de l’Ouest canadien,http://www.wd.gc.ca/eng/home.asp,http://www.wd.gc.ca/fra/accueil.asp
+48,false,Economic Development Agency of Canada for the Regions of Quebec,Agence de développement économique du Canada pour les régions du Québec,http://dec-ced.gc.ca/eng/index.html,http://dec-ced.gc.ca/fra/index.html
+49,false,Federal Economic Development Agency for Southern Ontario,Agence fédérale de développement économique pour le Sud de l’Ontario,http://www.feddevontario.gc.ca/eic/site/723.nsf/eng/home,http://www.feddevontario.gc.ca/eic/site/723.nsf/fra/accueil
+50,false,Financial Consumer Agency of Canada,Agence de la consommation en matière financière du Canada,http://www.fcac-acfc.gc.ca/eng/Pages/home-accueil.aspx,http://www.fcac-acfc.gc.ca/Fra/Pages/home-accueil.aspx
+51,false,Financial Transactions and Reports Analysis Centre of Canada,Centre d’analyse des opérations et déclarations financières du Canada,http://www.fintrac.gc.ca/intro-eng.asp,http://www.canafe.gc.ca/intro-fra.asp
+52,false,Immigration and Refugee Board,Commission de l’immigration et du statut de réfugié,http://www.irb-cisr.gc.ca/eng/Pages/index.aspx,http://www.irb-cisr.gc.ca/Fra/Pages/index.aspx
+53,false,Indian Residential Schools Truth and Reconciliation Commission,Commission de vérité et de réconciliation relative aux pensionnats indiens,http://www.trc.ca/websites/trcinstitution/index.php?p=3,http://www.trc.ca/websites/trcinstitution/index.php?p=15
+54,false,Law Commission of Canada,Commission du droit du Canada,N/A,N/A
+55,false,Library and Archives of Canada,Bibliothèque et Archives du Canada,http://www.bac-lac.gc.ca/eng/Pages/home.aspx,http://www.bac-lac.gc.ca/fra/Pages/accueil.aspx
+56,false,Military Grievances External Review Committee,Comité externe d’examen des griefs militaires,http://mgerc-ceegm.gc.ca/index-eng.html,http://mgerc-ceegm.gc.ca/index-fra.html
+57,false,Military Police Complaints Commission,Commission d’examen des plaintes concernant la police militaire,http://www.mpcc-cppm.gc.ca/index-eng.aspx,http://www.mpcc-cppm.gc.ca/index-fra.aspx
+58,false,National Battlefields Commission,Commission des champs de bataille nationaux,http://www.ccbn-nbc.gc.ca/en/,http://www.ccbn-nbc.gc.ca/fr/
+59,false,National Energy Board,Office national de l’énergie,http://www.neb-one.gc.ca/index-eng.html,http://www.neb-one.gc.ca/index-fra.html
+60,false,National Farm Products Council,Conseil national des produits agricoles,http://fpcc-cpac.gc.ca/index.php/en-GB/,http://fpcc-cpac.gc.ca/index.php/fr-FR/
+61,false,National Film Board,Office national du film,http://onf-nfb.gc.ca/en/home/,http://onf-nfb.gc.ca/fr/accueil/
+62,false,National Research Council of Canada,Conseil national de recherches du Canada,http://www.nrc-cnrc.gc.ca/eng/,http://www.nrc-cnrc.gc.ca/fra/index.html
+63,false,Natural Sciences and Engineering Research Council,Conseil de recherches en sciences naturelles et en génie,http://www.nserc-crsng.gc.ca/index_eng.asp,http://www.nserc-crsng.gc.ca/index_fra.asp
+64,false,Northern Pipeline Agency,Administration du pipe-line du Nord,http://npa.gc.ca/home,http://apn.gc.ca/accueil
+65,false,Office of Infrastructure of Canada,Bureau de l’infrastructure du Canada,http://www.infrastructure.gc.ca/index-eng.html,http://www.infrastructure.gc.ca/index-fra.html
+66,false,Office of the Commissioner for Federal Judicial Affairs,Bureau du commissaire à la magistrature fédérale,http://www.fja-cmf.gc.ca/home-accueil/index-eng.html,http://www.fja-cmf.gc.ca/home-accueil/index-fra.html
+67,false,Office of the Communications Security Establishment Commissioner,Bureau du commissaire du Centre de la sécurité des télécommunications,https://www.ocsec-bccst.gc.ca/index.php?lang=e,https://www.ocsec-bccst.gc.ca/index.php?lang=fra
+68,false,"Office of the Coordinator, Status of Women",Bureau de la coordonnatrice de la situation de la femme,http://www.swc-cfc.gc.ca/index-en.html,http://www.swc-cfc.gc.ca/index-fr.html
+69,false,Office of the Correctional Investigator of Canada,Bureau de l’enquêteur correctionnel du Canada,http://www.oci-bec.gc.ca/index-eng.aspx,http://www.oci-bec.gc.ca/index-fra.aspx
+70,false,Office of the Director of Public Prosecutions,Bureau du directeur des poursuites pénales,http://www.ppsc.gc.ca/eng/index.html,http://www.ppsc.gc.ca/fra/index.html
+71,false,Office of the Superintendent of Financial Institutions,Bureau du surintendant des institutions financières,http://www.osfi-bsif.gc.ca/eng/pages/default.aspx,http://www.osfi-bsif.gc.ca/fra/pages/default.aspx
+72,false,Parks Canada Agency,Agence Parcs Canada,http://www.pc.gc.ca/eng/index.aspx,http://www.pc.gc.ca/fra/index.aspx
+73,false,Parole Board of Canada,Commission des libérations conditionnelles du Canada,http://pbc-clcc.gc.ca/index-eng.shtml,http://pbc-clcc.gc.ca/index-fra.shtml
+74,false,Patented Medicine Prices Review Board,Conseil d’examen du prix des médicaments brevetés,http://pmprb-cepmb.gc.ca/home,http://pmprb-cepmb.gc.ca/fr/accueil
+75,false,Privy Council Office,Bureau du Conseil privé,http://www.pco-bcp.gc.ca/index.asp?lang=eng,http://www.pco-bcp.gc.ca/index.asp?lang=fra
+76,false,Public Health Agency of Canada,Agence de la santé publique du Canada,http://www.phac-aspc.gc.ca/index-eng.php,http://www.phac-aspc.gc.ca/index-fra.php
+77,false,Public Service Commission,Commission de la fonction publique,http://www.psc-cfp.gc.ca/index-eng.htm,http://www.psc-cfp.gc.ca/index-fra.htm
+78,false,Public Service Labour Relations and Employment Board,Commission des relations de travail dans la fonction publique,http://pslreb-crtefp.gc.ca/index_e.asp,http://pslreb-crtefp.gc.ca/index_f.asp
+79,false,Registry of the Competition Tribunal,Greffe du Tribunal de la concurrence,http://www.ct-tc.gc.ca/home.asp,http://www.ct-tc.gc.ca/Accueil.asp
+80,false,Registry of the Public Servants Disclosure Protection Tribunal,Greffe du Tribunal de la protection des fonctionnaires divulgateurs d’actes répréhensibles,http://www.psdpt-tpfd.gc.ca/Home-eng.html,http://www.psdpt-tpfd.gc.ca/Accueil-fra.html
+81,false,Registry of the Specific Claims Tribunal,Greffe du Tribunal des revendications particulières,http://sct-trp.ca/repor/rpp1314_e.htm,http://sct-trp.ca/repor/rpp1314_f.htm
+82,false,Royal Canadian Mounted Police ,Gendarmerie royale du Canada,http://www.rcmp-grc.gc.ca/en/home,http://www.rcmp-grc.gc.ca/fr
+83,false,Royal Canadian Mounted Police External Review Committee,Comité externe d’examen de la Gendarmerie royale du Canada,http://www.erc-cee.gc.ca/index-eng.aspx,http://www.erc-cee.gc.ca/index-fr.aspx
+84,false,Royal Canadian Mounted Police Public Complaints Commission,Commission des plaintes du public contre la Gendarmerie royale du Canada,https://www.crcc-ccetp.gc.ca/,https://www.crcc-ccetp.gc.ca/fr
+85,false,Security Intelligence Review Committee,Comité de surveillance des activités de renseignement de sécurité,http://www.sirc-csars.gc.ca/index-eng.html,http://www.sirc-csars.gc.ca/index-fra.html
+86,false,Shared Services Canada,Services partagés Canada,http://www.ssc.gc.ca/index-eng.html,http://www.ssc.gc.ca/index-fra.html
+87,false,Social Sciences and Humanities Research Council,Conseil de recherches en sciences humaines,http://www.sshrc-crsh.gc.ca/home-accueil-eng.aspx,http://www.sshrc-crsh.gc.ca/home-accueil-fra.aspx
+88,false,Statistics Canada,Statistique Canada,http://www.statcan.gc.ca/start-debut-eng.html,http://www.statcan.gc.ca/start-debut-fra.html
+89,false,Transportation Appeal Tribunal of Canada,Tribunal d’appel des transports du Canada,http://www.tatc.gc.ca/index.php,http://www.tatc.gc.ca/index.php?lang=fra
+90,false,Treasury Board,Conseil du Trésor,https://www.canada.ca/en/treasury-board-secretariat.html,https://www.canada.ca/fr/secretariat-conseil-tresor.html
+91,false,Veterans Review and Appeal Board,Tribunal des anciens combattants (révision et appel),http://www.vrab-tacra.gc.ca/Home-accueil-eng.cfm,http://www.vrab-tacra.gc.ca/Home-accueil-fra.cfm
